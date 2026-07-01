@@ -6,5 +6,6 @@ public class Main {
         l1.log("Application Started");
 
         System.out.println(l1 == l2);
+        //abc
     }
 }
